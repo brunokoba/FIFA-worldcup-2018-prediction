@@ -1,6 +1,6 @@
 # FIFA-worldcup-2018-prediction
-## Using Machine Learning to predict the winner of the 2018 FIFA World Cup.
-This is my first personal project to practice data mining and Machine Learning techniques. Feel free to take a look at the Jupyter Notebook in the repo to check out the code and the insights provided. I hope it's didatic enough!
+### Using Machine Learning to predict the winner of the 2018 FIFA World Cup.
+This is my first personal project to practice data mining and Machine Learning techniques. I use mostly pandas, seaborn and scikit-learn. Feel free to take a look at the Jupyter Notebook in the repo to check out the code and the insights provided. I hope it's didatic enough!
 
 ### How to visualize the Jupyter Notebook in all its glory
 1. Ensure you have Jupyter Notebooks installed (http://jupyter.org/install).
